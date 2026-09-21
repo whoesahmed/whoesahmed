@@ -51,8 +51,8 @@ I'm an AI/ML enthusiast and Python developer building practical, data-driven pro
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=whoesahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoesahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoesahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoesahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
 
 ---
 
