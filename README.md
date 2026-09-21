@@ -25,9 +25,12 @@ I'm an AI/ML enthusiast and Python developer building practical, data-driven pro
 **🧠 AI/ML & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -36,6 +39,7 @@ I'm an AI/ML enthusiast and Python developer building practical, data-driven pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -49,12 +53,18 @@ I'm an AI/ML enthusiast and Python developer building practical, data-driven pro
 
 ---
 
+<div align="center">
+
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=whoesahmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whoesahmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" />
 
+</div>
+
 ---
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+AI%2FML;Currently+interning+at+DecodeLabs;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
