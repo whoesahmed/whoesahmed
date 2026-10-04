@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3A6073&height=240&section=header&text=Anwaar%20Ahmed%20Junaid&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI\ML%20Engineer%20%7C%20Python%20Developer%20%7C|%20COMSATS%20University%20Islamabad,%20Lahore%20Campus&descAlignY=58&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:3A6073&height=240&section=header&text=Anwaar%20Ahmed%20Junaid&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=AI\ML%20Engineer%20%7C%20Python%20Developer%20%7C%20COMSATS%20University%20Islamabad,%20Lahore%20Campus&descAlignY=58&descSize=18&descColor=ffffff" />
 
 [![Portfolio](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/whoesahmed) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwaar-ahmed-junaid-3201792a8) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anwaarahmedjunaid2@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ahhmwed) [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ahmiiishere)
 
