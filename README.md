@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me
 
-I'm an AI/ML enthusiast and Python developer building practical, data-driven projects — from predictive models to route-optimization algorithms. I care about writing clean, defensive, well-documented code, not just code that "works."
+I'm an Electronics & Computing student from COMSATS University Islamabad, Lahore Campus. Alongside with my degree, i'm an AI/ML Enthusiast and Python Developer building practical, data-driven projects, from predictive models to route-optimization algorithms. I care about writing clean, defensive, well-documented code, not just code that "works."
 
-- 🎓 **Education:** ELC Major at COMSATS University Islamabad, Lahore Campus
+- 🎓 **Education:** ELC at COMSATS University Islamabad, Lahore Campus
 - 💼 **Currently:** Python Developer Intern at [DecodeLabs](https://www.decodelabs.tech)
 - 🚀 **What I Build:** ML-powered prediction tools, algorithmic problem-solving projects, and clean backend logic
-- 🧠 **Currently Learning:** Machine learning fundamentals, data structures & algorithms, backend development
-- 📍 **Based in:** Lahore, Pakistan
+- 🧠 **Currently Learning:** Machine learning Fundamentals, Data Structures & Algorithms, Backend Development
+- 📍 **Location:** Lahore, Pakistan
 
 ---
 
