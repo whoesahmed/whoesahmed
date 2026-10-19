@@ -47,7 +47,7 @@ I'm an Electronics & Computing student from COMSATS University Islamabad, Lahore
 
 | Project | Description | Code |
 |---|---|---|
-| **PSL Win Predictor** | Predicts PSL match winners using scikit-learn, with features engineered from team form, head-to-head, and venue history. Interactive Streamlit app. | [GitHub](https://github.com/whoesahmed/psl-win-predictor) |
+| **PSL Win Predictor** | Predicts PSL match winners using scikit-learn, with features engineered from team form, head-to-head, and venue history. | [GitHub](https://github.com/whoesahmed/psl-win-predictor) |
 | **Lahore Route Optimizer** | Shortest-route finder for real Lahore locations, built with Dijkstra's algorithm, adjacency graphs, and a custom hash table for lookups. | [GitHub](https://github.com/whoesahmed/lahore-route-optimizer) |
 | **DecodeLabs Internship** | Four Python Projects (To-Do List, Expense Tracker, Password Generator, GK Quiz) built during my Python Developer Internship. | [GitHub](https://github.com/whoesahmed/DecodeLabs-Internship) |
 
